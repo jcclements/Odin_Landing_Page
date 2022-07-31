@@ -75,8 +75,9 @@ li {
 .button1 {
     background-color: #3882f6;
     color: white;
-    border-radius: 16px;
-    border-style: double;
+    border-radius: 12px;
+
+    border: 1px solid #3882f6;
     padding: 8px 16px;
     font-size: 30px;
     font-weight: 900;
